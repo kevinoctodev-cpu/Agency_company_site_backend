@@ -1,0 +1,46 @@
+{
+  "services": [
+    {
+      "_id": "service-web-dev",
+      "name": "Web Development",
+      "price": "499",
+      "description": "Modern responsive website development for small businesses and agencies.",
+      "img": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "_id": "service-digital-strategy",
+      "name": "Digital Strategy",
+      "price": "299",
+      "description": "Planning, positioning, and practical growth strategy for digital products.",
+      "img": "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "_id": "service-branding",
+      "name": "Brand Consulting",
+      "price": "349",
+      "description": "Brand identity guidance, messaging, and launch support.",
+      "img": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&w=800&q=80"
+    }
+  ],
+  "reviews": [
+    {
+      "_id": "review-demo-1",
+      "name": "Demo Client",
+      "email": "client@example.com",
+      "address": "New York, USA",
+      "description": "The team helped us clarify the product direction and launch faster.",
+      "img": "https://i.pravatar.cc/160?img=12"
+    }
+  ],
+  "orders": [],
+  "admins": [
+    {
+      "_id": "admin-demo",
+      "email": "admin@mail.com"
+    },
+    {
+      "_id": "admin-test",
+      "email": "test@admin.com"
+    }
+  ]
+}
