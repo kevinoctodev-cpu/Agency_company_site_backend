@@ -1,4 +1,4 @@
-# Easy Consulting Local Backend
+# Agency Company Site Backend
 
 This backend mirrors the API routes used by the React frontend.
 
